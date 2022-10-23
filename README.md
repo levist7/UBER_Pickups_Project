@@ -22,3 +22,9 @@ Deliverables available:
 2- Hot-zones per day of week and per shift time
 
 3- Results obtained with two unsupervised algorithms KMeans and DBScan.
+
+Bloc 3 - Jedha Fullstack Datascientist Bootcamp
+
+Link to video: https://share.vidyard.com/watch/GZq7BETXYyC3P5gZbrUWnP?
+
+lisbiliorglu@gmail.com
