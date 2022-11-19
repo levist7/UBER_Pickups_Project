@@ -26,5 +26,3 @@ Deliverables available:
 Bloc 3 - Jedha Fullstack Datascientist Bootcamp
 
 Link to video: https://share.vidyard.com/watch/GZq7BETXYyC3P5gZbrUWnP?
-
-lisbiliorglu@gmail.com
