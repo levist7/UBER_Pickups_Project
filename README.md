@@ -1,6 +1,22 @@
 # UBER Pickups Project
 Project on Unsupervised Machine Learning - KMeans and DBScan
 
+![python-shield](https://forthebadge.com/images/badges/made-with-python.svg)  
+
+[Video presentation](https://share.vidyard.com/watch/GZq7BETXYyC3P5gZbrUWnP?)  
+
+## Table of contents
+* [Project](#project)
+* [Pipeline](#pipeline)
+* [Deliverables](#deliverables)
+* [Model performances](#modelperformances)
+* [Technologies](#technologies)
+* [Getting Started](#getting-started)
+* [License](#license)
+* [Author](#author)
+
+## Project  
+
 Uber is one of the most famous a ride-sharing application in the world. One of the main pain point that Uber's team found is that sometimes drivers are not around when users need them. For example, a user might be in Meat Packing District whereas Uber drivers are looking for customers in Upper West Side. 
 
 Eventhough both neighborhood are not that far away, users would still have to wait 10 to 15 minutes before being picked-up, which is too long. Uber's research shows that users accept to wait 5-7 minutes, otherwise they would cancel their ride.
@@ -15,6 +31,12 @@ Uber already has data about pickups in major cities. The objective is to create 
 
 *  Visualize results on a nice dashboard
 
+
+## Pipeline  
+
+<img src = ".pipeline_summary.png">
+
+## Deliverables  
 Deliverables available:
 
 1- Interactive maps with hot-zones using any python library (plotly),
@@ -23,6 +45,38 @@ Deliverables available:
 
 3- Results obtained with two unsupervised algorithms KMeans and DBScan.
 
-Bloc 3 - Jedha Fullstack Datascientist Bootcamp
 
-Link to video: https://share.vidyard.com/watch/GZq7BETXYyC3P5gZbrUWnP?
+## Technologies
+
+Project is created with:
+* Python 3.8
+* Jupyter Notebook 6.4.12
+* Python libraries (see /requirements.txt)
+* VSCode 1.71.2
+
+or this github project can be launched on [colab-google](https://colab.research.google.com) without any local installations. It is free and requires Google account sign-in.  
+
+## Getting Started
+
+To run this project, 
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/levist7/UBER_UnsupervisedML_KMeans_DBSCAN.git
+   ```
+2. Install [packages](#technologies)
+
+3. Install python libraries
+   ```sh
+   pip3 install -r requirements.txt
+   ```
+
+## License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## Author  
+
+* [levist7](https://github.com/levist7)  
+---
+Made with ❤️ in Paris
+---
