@@ -9,7 +9,7 @@ Project on Unsupervised Machine Learning - KMeans and DBScan
 * [Project](#project)
 * [Pipeline](#pipeline)
 * [Deliverables](#deliverables)
-* [Model performances](#modelperformances)
+* [Model Performances](#modelperformances)
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
 * [License](#license)
@@ -31,7 +31,6 @@ Uber already has data about pickups in major cities. The objective is to create 
 
 *  Visualize results on a nice dashboard
 
-
 ## Pipeline  
 
 <img src = ".pipeline_summary.png">
@@ -45,8 +44,18 @@ Deliverables available:
 
 3- Results obtained with two unsupervised algorithms KMeans and DBScan.
 
+## Model Performances  
 
-## Technologies
+**Fig 1**- Density of Uber pickups in Manhattan island  
+<img src = "figs/fig2-zoom.png">  
+
+**Fig 2**- Number of Uber rides per shift with K-Means   
+<img src ="figs/kmeans_clusters_4shifts.png">  
+
+**Fig 3**- Number of Uber rides per shift with DBScan  
+<img src ="figs/dbscan_clusters_4shifts.png">  
+
+## Technologies  
 
 Project is created with:
 * Python 3.8
