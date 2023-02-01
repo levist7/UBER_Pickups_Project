@@ -70,7 +70,7 @@ or this github project can be launched on [colab-google](https://colab.research.
 To run this project, 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/levist7/UBER_UnsupervisedML_KMeans_DBSCAN.git
+   git clone https://github.com/levist7/UBER_Pickups_Project.git
    ```
 2. Install [packages](#technologies)
 
